@@ -1,4 +1,4 @@
-# Tech Design Document
+## Tech Design Document
 
 You can use the [editor on GitHub](https://github.com/ihedud/Tech-Design-Document/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
