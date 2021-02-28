@@ -32,6 +32,8 @@ In this section, developers can attach the features from the GDD that help the r
 
 **Concept Art:** For this sub-section, a concept art board should be delivered, where all the main features and characters of the game are properly represented.
 
+![image](https://user-images.githubusercontent.com/59050152/109432623-59d10980-7a0c-11eb-9612-6dd364780aeb.png)
+
 **Win-Lose Conditions:** The goals and risks of the gameplay have to be explained, with an answer on how to win and how to lose.
 
 ### Technical Goals
@@ -42,6 +44,8 @@ The technical risks of a game are all the difficulties and complications that th
 
 ### Estimated Schedule
 All big project has to follow a schedule. For the team to have a general idea on what to expect, the game should be divided in milestones which need to be placed in a timeline according to importance.
+
+![image](https://user-images.githubusercontent.com/59050152/109432635-635a7180-7a0c-11eb-9e5d-e40df5fc68c4.png)
 
 ### External Tools to Develop
 Usually, when developing a project, there are external resources needed. In the following sub-sections, they have to be stated so that the team gets an overview of the material needed.
@@ -62,8 +66,13 @@ For different developers to work in a same project, they have to adapt. This sec
 ### Code Organization overview (UML)
 An UML is a diagram that overviews the internal structure of the code, portcasing the relationship between all the different variables, classes and functions.
 
+![image](https://user-images.githubusercontent.com/59050152/109432647-6ce3d980-7a0c-11eb-9ffd-a7c94c36d698.png)
+![image](https://user-images.githubusercontent.com/59050152/109432652-740ae780-7a0c-11eb-8d9d-96ec1fad7457.png)
+
 ### Branch Workflow
 The branch workflow needs to state what kind of branching policy the team is going to use, when they will need to create a new branch, when to merge, etc. 
+
+![image](https://user-images.githubusercontent.com/59050152/109432661-7bca8c00-7a0c-11eb-9003-f36e000d1cb7.png)
 
 ### Code Reviews
 The main goal of code reviews is that the quality of the code is improving over time. When reviewing a code, while it assures that everything is correct, it also helps to understand the code better. In this section, the team must describe the conventions (or programs) that the team uses to review code.
@@ -73,6 +82,8 @@ As with money, a game also has performance limitations. These can go from hardwa
 
 ### Level Layout
 In the level layout, a scheme of all the levels should be delivered. It should be done from a coding point of view, to explain how to navigate the map.
+
+![image](https://user-images.githubusercontent.com/59050152/109432610-445bdf80-7a0c-11eb-8a5b-2404b006c50d.png)
 
 ### User Interface
 The user interface has to be approached from a technical perspective.
