@@ -117,10 +117,10 @@ These are some of the most common mistakes:
 -	[Example 4](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
 
 ## References
--	https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php?print=1
--	https://github.com/GameDesign/Zero/wiki/Technical-Design-Document
--	https://www.toptal.com/freelance/why-design-documents-matter
--	https://medium.com/@cbrown0510/what-is-a-gdd-ca43e2094995
--	https://google.github.io/eng-practices/review/reviewer/
--	https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e
+-	[The Anatomy of a Design Document](https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php?print=1)
+-	[Zero's Technical Design Document](https://github.com/GameDesign/Zero/wiki/Technical-Design-Document)
+-	[Why Writing Software Design Documents Matters](https://www.toptal.com/freelance/why-design-documents-matter)
+-	[What is a GDD?](https://medium.com/@cbrown0510/what-is-a-gdd-ca43e2094995)
+-	[How to do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+-	[Writing Technical Design Docs](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 
