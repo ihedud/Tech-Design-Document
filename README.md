@@ -1,3 +1,4 @@
+# Tech Design Document
 ## Definition of a TDD
 A Tech Design Document or TDD is a form that developers create when facing a new project. This document is usually written in the pre-production phase of a project and its purpose is to state all the technology related items, such as conventions, technical requirements and resources, that should be considered in the project in hand. It goes over all the software used, the coding guidelines, the milestones timeline and technical goals and risks of the game, among other technical aspects. The length of this document may vary from 1 to even 50, depending on how deep the points are going to be treated. The TDD is continuously updated throughout the development process.
 
