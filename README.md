@@ -111,10 +111,10 @@ These are some of the most common mistakes:
 -	The feedback is received as a personal matter or it is underestimated. 
 
 ## Examples
--	https://www.slideshare.net/obasogie/java-technical-design-document
--	https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf
--	https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document#branching
--	http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf
+-	[Example 1](https://www.slideshare.net/obasogie/java-technical-design-document)
+-	[Example 2](https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf)
+-	[Example 3](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document#branching)
+-	[Example 4](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
 
 ## References
 -	https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php?print=1
