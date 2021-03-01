@@ -50,6 +50,7 @@ Version list…………………………………………….……………�
 
 
 ## Development Team
+
 ```
 -------------------------------------------------
 |Name			|Role			|
@@ -104,34 +105,50 @@ How can players lose the game?*
 
 *List the experimental features your team wants to include in the game.*
 
-Technical Risks and Alternatives
-Risk	Alternative (If any)
-Ex. The game goes extremely slow due to the scene manager	N/A
-	
-	
-	
-	
+
+## Technical Risks and Alternatives
+
+```	
+-------------------------------------------------------------------------------------------------
+|Risk								|Alternative			|
+-------------------------------------------------------------------------------------------------
+|*Ex. The game goes extremely slow due to the scene manager*	|*N/A*				|
+-------------------------------------------------------------------------------------------------
+|								|				|
+-------------------------------------------------------------------------------------------------
+```
 
 
-Estimated Schedule
+## Estimated Schedule
 Due Date	Milestone
-Ex. 04/07/2021	Finished Collisions Detection System
 	
-	
-	
-	
+```
+-------------------------------------------------------------------------
+|Due Date		|Milestone					|
+-------------------------------------------------------------------------
+|*Ex. 04/07/2021*	|*Finished Collisions Detection System*		|
+-------------------------------------------------------------------------
+|			|						|
+-------------------------------------------------------------------------
+```
 
 
-External Tools to Develop 
-Used Programs
-Program	Functionality
-Ex. Photoshop	Touch up 2D assets
-	
-	
-	
+## External Tools to Develop
+
+### Used Programs
+
+```
+---------------------------------------------------------
+|Program		|Functionality			|
+---------------------------------------------------------
+|*Ex. Photoshop*	|*Touch up 2D assets*		|
+---------------------------------------------------------
+|			|				|
+---------------------------------------------------------
+```	
 	
 
-External Libraries
+### External Libraries
 Library	Functionality
 Ex. <cmath>	Extra mathematic operations
 	
