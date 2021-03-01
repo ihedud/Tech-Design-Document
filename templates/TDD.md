@@ -1,131 +1,108 @@
+# *Game’s Title ‘s* TDD
 
 
+First update: *Date*
 
-Game’s Title ‘s TDD
+Latest update: *Date*
 
-
-
-
-
+Version: *Number*
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-First update: Date
-Latest update: Date
-Version: Number
-Index
+## Index
 
 Development Team………………………………………………………………………………….. page nº
+
 Introduction………………………………………………………………………….…………………. page nº
-	Game Summary………………………………………………………….…………………. page nº
-	Platforms Supported………………………………………………….…………………… page nº
+	
 Features from the GDD……………………………………………………….……………………. page nº
-Background…………………………………………………………….…………………….. page nº
-Key Features………………………………………………………….……………………… page nº
-Genre…………………………………………………………………………………………… page nº
-Target Audience…………………………………………………………………………….. page nº
-Concept Art…………………………………………………………………………………... page nº
-Win-Lose Conditions…………………………………………………………………….… page nº
+
 Technical Goals…………………………………………………………………………………….….. page nº
+
 Technical Risks and Alternatives………………………………………………………………… page nº
+
 Estimated Schedule…………………………………………………………………………….……. page nº
+
 External Tools to Develop………………………………………………………………….………. page nº
-Used Programs…………………………………………………….………………………… page nº
-External Libraries……………………………………………….………………………….. page nº
+
 Code Style Guidelines.………………………………………………….…………………………… page nº
-File Formats…………………………………………………….……………………………. page nº
-Naming Conventions……………………………………….……………………………… page nº
-Code Preferences………………………………………….……………………………….. page nº
+
 Code Organization overview (UML)………………………….…………………………………. page nº
+
 Branch Workflow………………………………………………….…………………………………… page nº
+
 Code Reviews………………………………………………………………………………………….. page nº
+
 Performance Budgets…………………………………………….…………………………………. page nº
+
 Level Layout……………………………………………………….……………………………………. page nº
+
 User Interface…………………………………………………….……………………………………. page nº
-Game Menus…………………………………….…………………………………………… page nº
-In-game Controls…………………………….…………………………………………….. page nº
+
 Collision Detection, Physics & Interaction…….……………………………………………… page nº
-Collision Manager…………………………………………………………………………... page nº
-Collision Map Manager………………………………………………………….………… page nº
-Use of Physics Engine………………………………………………………….…………. page nº
+
 Assets list…………………………………………………………………………………………….….. page nº
+
 Hardware and Software Requirements………………………………………………….……. page nº
+
 Data Sharing…………………………………………………………………………………….……… page nº
+
 Version list…………………………………………….………………………………………………….page nº
 
 
+## Development Team
+```
+-------------------------------------------------
+|Name			|Role			|
+-------------------------------------------------
+|*Ex. Laura Muñoz Sala*	|*QA Tester*		|
+-------------------------------------------------
+|			|			|
+-------------------------------------------------
+```
 
 
+## Introduction
+
+### Game Summary
+
+*Description of the game and its contents in 1-2 lines.*
+
+### Platforms Supported
+
+*List of all the platforms supported by the game.*
 
 
+## Features from the GDD 
+
+### Background
+
+*Briefly explain the inspiration for the game.*
+
+### Key Features
+
+*List all the aspects and features of the game that makes it original.*
+
+### Genre
+
+*What is the Genre of the game? Describe it.*
+
+### Target Audience
+
+*What is the target audience of the game?*
+
+### Concept Art *(Optional)*
+
+*Insert a concept art board.*
+
+### Win-Lose Conditions
+
+*How can players win the game?
+How can players lose the game?*
 
 
+## Technical Goals
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Development Team
-Name	Role
-Ex. Laura Muñoz Sala	QA Tester
-	
-	
-	
-	
-	
-	
-
-
-Introduction
-Game Summary
-Description of the game and its contents in 1-2 lines.
-Platforms Supported
-List of all the platforms supported by the game.
-
-Features from the GDD 
-Background
-Briefly explain the inspiration for the game.
-Key Features
-List all the aspects and features of the game that makes it original.
-Genre
-What is the Genre of the game? Describe it.
-Target Audience
-What is the target audience of the game?
-Concept Art (Optional)
-Insert a concept art board.
-Win-Lose Conditions
-How can players win the game?
-How can players lose the game?
-
-
-Technical Goals
-List the experimental features your team wants to include in the game.
+*List the experimental features your team wants to include in the game.*
 
 Technical Risks and Alternatives
 Risk	Alternative (If any)
