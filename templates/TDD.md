@@ -10,56 +10,54 @@ Version: *Number*
 
 ## Index
 
-Development Team………………………………………………………………………………….. page nº
+Development Team
 
-Introduction………………………………………………………………………….…………………. page nº
+Introduction
 	
-Features from the GDD……………………………………………………….……………………. page nº
+Features from the GDD
 
-Technical Goals…………………………………………………………………………………….….. page nº
+Technical Goals
 
-Technical Risks and Alternatives………………………………………………………………… page nº
+Technical Risks and Alternatives
 
-Estimated Schedule…………………………………………………………………………….……. page nº
+Estimated Schedule
 
-External Tools to Develop………………………………………………………………….………. page nº
+External Tools to Develop
 
-Code Style Guidelines.………………………………………………….…………………………… page nº
+Code Style Guidelines
 
-Code Organization overview (UML)………………………….…………………………………. page nº
+Code Organization overview (UML)
 
-Branch Workflow………………………………………………….…………………………………… page nº
+Branch Workflow
 
-Code Reviews………………………………………………………………………………………….. page nº
+Code Reviews
 
-Performance Budgets…………………………………………….…………………………………. page nº
+Performance Budgets
 
-Level Layout……………………………………………………….……………………………………. page nº
+Level Layout
 
-User Interface…………………………………………………….……………………………………. page nº
+User Interface
 
-Collision Detection, Physics & Interaction…….……………………………………………… page nº
+Collision Detection, Physics & Interaction
 
-Assets list…………………………………………………………………………………………….….. page nº
+Assets list
 
-Hardware and Software Requirements………………………………………………….……. page nº
+Hardware and Software Requirements
 
-Data Sharing…………………………………………………………………………………….……… page nº
+Data Sharing
 
-Version list…………………………………………….………………………………………………….page nº
+Version list
 
 
 ## Development Team
 
-```
--------------------------------------------------
 |Name			|Role			|
--------------------------------------------------
+|-----------------------|-----------------------|
 |*Ex. Laura Muñoz Sala*	|*QA Tester*		|
--------------------------------------------------
 |			|			|
--------------------------------------------------
-```
+|			|			|
+|			|			|
+|			|			|
 
 
 ## Introduction
@@ -108,56 +106,48 @@ How can players lose the game?*
 
 ## Technical Risks and Alternatives
 
-```	
--------------------------------------------------------------------------------------------------
 |Risk								|Alternative			|
--------------------------------------------------------------------------------------------------
+|---------------------------------------------------------------|-------------------------------|
 |*Ex. The game goes extremely slow due to the scene manager*	|*N/A*				|
--------------------------------------------------------------------------------------------------
 |								|				|
--------------------------------------------------------------------------------------------------
-```
+|								|				|
+|								|				|
+|								|				|
 
 
 ## Estimated Schedule
 Due Date	Milestone
-	
-```
--------------------------------------------------------------------------
+
 |Due Date		|Milestone					|
--------------------------------------------------------------------------
+|-----------------------|-----------------------------------------------|
 |*Ex. 04/07/2021*	|*Finished Collisions Detection System*		|
--------------------------------------------------------------------------
 |			|						|
--------------------------------------------------------------------------
-```
+|			|						|
+|			|						|
+|			|						|
 
 
 ## External Tools to Develop
 
 ### Used Programs
 
-```
----------------------------------------------------------
 |Program		|Functionality			|
----------------------------------------------------------
+|-----------------------|-------------------------------|
 |*Ex. Photoshop*	|*Touch up 2D assets*		|
----------------------------------------------------------
 |			|				|
----------------------------------------------------------
-```
+|			|				|
+|			|				|
+|			|				|
 
 ### External Libraries
 
-```
----------------------------------------------------------
 |Library		|Functionality			|
----------------------------------------------------------
-|*Ex. <cmath>*	|*Extra mathematic operations*		|
----------------------------------------------------------
+|-----------------------|-------------------------------|
+|*Ex. <cmath>*		|*Extra mathematic operations*	|
 |			|				|
----------------------------------------------------------
-```
+|			|				|
+|			|				|
+|			|				|
 	
 	
 ## Code Style Guidelines 
