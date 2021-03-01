@@ -145,64 +145,99 @@ Due Date	Milestone
 ---------------------------------------------------------
 |			|				|
 ---------------------------------------------------------
-```	
-	
+```
 
 ### External Libraries
-Library	Functionality
-Ex. <cmath>	Extra mathematic operations
-	
-	
-	
-	
 
-Code Style Guidelines 
-File Formats
-Type of file	Format
-Ex. Music	title_music.ogg
+```
+---------------------------------------------------------
+|Library		|Functionality			|
+---------------------------------------------------------
+|*Ex. <cmath>*	|*Extra mathematic operations*		|
+---------------------------------------------------------
+|			|				|
+---------------------------------------------------------
+```
 	
 	
-	
-	
+## Code Style Guidelines 
 
-Naming Conventions
-List all the naming conventions.
-Code Preferences
-Describe all the preferences and conventions applied to the code. (struct vs class, while vs for, if vs case, public variable vs. private variable, etc.)
+### File Formats
 
-Code Organization overview (UML)
-Insert an image of an UML where the inheritance relation between all classes is clear.
+```
+---------------------------------------------------------
+|Type of file		|Format				|
+---------------------------------------------------------
+|*Ex. Music*		|*title_music.ogg*		|
+---------------------------------------------------------
+|			|				|
+---------------------------------------------------------
+```
 
-Branch Workflow
-Describe the branching policy (when to create a new branch, what type, how to create it, when should to merge, etc.) and insert a diagram of the branch workflow used in your team (optional).
+### Naming Conventions
 
-Code Reviews
-What conventions and rules does your team follow to make a good review of the code?
+*List all the naming conventions.*
 
-Performance Budgets
-List the limitations related to performance that the project has. 
+### Code Preferences
 
-Level Layout
-Insert a scheme of each level showing how to navigate it from a coding perspective.
-
-User Interface 
-Game Menus
-Menu	Options
-Ex. Start-up Menu	New Game, Continue Game, Options Menu and Exit.
-	
-	
-	
-
-In-game Controls
-Key	Functionality
-Ex. D	Turn left
-	
-	
-	
+*Describe all the preferences and conventions applied to the code. (struct vs class, while vs for, if vs case, public variable vs. private variable, etc.)*
 
 
-Collision Detection, Physics & Interaction
-Collision Manager
+## Code Organization overview (UML)
+
+*Insert an image of an UML where the inheritance relation between all classes is clear.*
+
+
+## Branch Workflow
+
+*Describe the branching policy (when to create a new branch, what type, how to create it, when should to merge, etc.) and insert a diagram of the branch workflow used in your team (optional).*
+
+
+## Code Reviews
+
+*What conventions and rules does your team follow to make a good review of the code?*
+
+
+## Performance Budgets
+
+*List the limitations related to performance that the project has.*
+
+
+## Level Layout
+
+*Insert a scheme of each level showing how to navigate it from a coding perspective.*
+
+
+## User Interface 
+
+### Game Menus
+	
+```
+---------------------------------------------------------------------------------
+|Menu			|Options						|
+---------------------------------------------------------------------------------
+|*Ex. Start-up Menu*	|*New Game, Continue Game, Options Menu and Exit.*	|
+---------------------------------------------------------------------------------
+|			|							|
+---------------------------------------------------------------------------------
+```
+
+### In-game Controls	
+	
+```
+-----------------------------------------
+|Key		|Functionality		|
+-----------------------------------------
+|*Ex. A*	|*Turn left*		|
+-----------------------------------------
+|		|			|
+-----------------------------------------
+```
+
+
+## Collision Detection, Physics & Interaction
+
+### Collision Manager
 How does your team manage the collisions?
 Collision Map Manager
 How does your team manage the collisions with the map?
