@@ -93,7 +93,7 @@ Version list…………………………………………….……………�
 
 ### Concept Art *(Optional)*
 
-*Insert a concept art board.*
+*Insert a mood board.*
 
 ### Win-Lose Conditions
 
