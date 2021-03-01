@@ -238,30 +238,53 @@ Due Date	Milestone
 ## Collision Detection, Physics & Interaction
 
 ### Collision Manager
-How does your team manage the collisions?
-Collision Map Manager
-How does your team manage the collisions with the map?
-Use of Physics Engine
-What type of game physics engine does your project use and why?
 
-Assets list
-Name	Type	Picture
-Ex. Chair	2D object	N/A
+*How does your team manage the collisions?*
+
+### Collision Map Manager
+
+*How does your team manage the collisions with the map?*
+
+### Use of Physics Engine
+
+*What type of game physics engine does your project use and why?*
+
+
+## Assets list
+Name		
+		
+```
+-------------------------------------------------------------------------
+|Name			|Type			|Picture		|
+-------------------------------------------------------------------------
+|*Ex. Chair*		|*2D object*		|*N/A*			|
+-------------------------------------------------------------------------
+|			|			|			|
+-------------------------------------------------------------------------
+```
 		
 		
-		
+## Hardware and Software Requirements
+
+*Does the game require any specific software? If so, list the requirements.
+Does the game require any specific hardware? If so, list the requirements.*
 
 
-Hardware and Software Requirements
-Does the game require any specific software? If so, list the requirements.
-Does the game require any specific hardware? If so, list the requirements.
-Data Sharing
-What program does your team use to share data?
-What program does your team use to deliver the game?
+## Data Sharing
 
-Version list
-Version	Requirements/Goal
-Ex. Beta Version	All features of the game should be fully developed, with all the levels finished. There can still be bugs.
+*What program does your team use to share data?
+What program does your team use to deliver the game?*
+
+
+## Version list	
 	
-	
-	
+```
+-----------------------------------------------------------------------------------------------------------------
+|Version		|Requirements/Goal									|
+-----------------------------------------------------------------------------------------------------------------
+|*Ex. Beta Version*	|*All features of the game should be fully developed, with all the levels finished.	|
+|			|There can still be bugs.*								|
+-----------------------------------------------------------------------------------------------------------------
+|			|											|
+-----------------------------------------------------------------------------------------------------------------
+```
