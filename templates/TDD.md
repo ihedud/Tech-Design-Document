@@ -10,43 +10,43 @@ Version: *Number*
 
 ## Index
 
-Development Team
+[Development Team](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#development-team)
 
-Introduction
+[Introduction](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#introduction)
 	
-Features from the GDD
+[Features from the GDD](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#features-from-the-gdd)
 
-Technical Goals
+[Technical Goals](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#technical-goals)
 
-Technical Risks and Alternatives
+[Technical Risks and Alternatives](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#technical-risks-and-alternatives)
 
-Estimated Schedule
+[Estimated Schedule](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#estimated-schedule)
 
-External Tools to Develop
+[External Tools to Develop](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#external-tools-to-develop)
 
-Code Style Guidelines
+[Code Style Guidelines](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#code-style-guidelines)
 
-Code Organization overview (UML)
+[Code Organization overview (UML)](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#code-organization-overview-uml)
 
-Branch Workflow
+[Branch Workflow](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#branch-workflow)
 
-Code Reviews
+[Code Reviews](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#code-reviews)
 
-Performance Budgets
+[Performance Budgets](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#performance-budgets)
 
-Level Layout
+[Level Layout](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#level-layout)
 
-User Interface
+[User Interface](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#user-interface)
 
-Collision Detection, Physics & Interaction
+[Collision Detection, Physics & Interaction](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#collision-detection-physics--interaction)
 
-Assets list
+[Assets list](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#assets-list)
 
-Hardware and Software Requirements
+[Hardware and Software Requirements](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#hardware-and-software-requirements)
 
-Data Sharing
+[Data Sharing](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#data-sharing)
 
-Version list
+[Version list](https://github.com/ihedud/TechDesignDocument/blob/main/templates/TDD.md#version-list)
 
 
 ## Development Team
