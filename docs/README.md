@@ -30,7 +30,7 @@ In this section, developers can attach the features from the GDD that help the r
 
 **Target Audience:** The target audience should be briefly described.
 
-**Concept Art:** For this sub-section, a concept art board should be delivered, where all the main features and characters of the game are properly represented.
+**Concept Art:** For this sub-section, a mood board should be delivered, where all the main features and characters of the game are properly represented.
 
 ![image](https://user-images.githubusercontent.com/59050152/109432623-59d10980-7a0c-11eb-9612-6dd364780aeb.png)
 
